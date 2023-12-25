@@ -1,4 +1,4 @@
-Sistema simples definir o rank do herói com base em suas (vitórias - derrotas)
+Sistema simples para de definir o rank do herói com base em suas (vitórias - derrotas)
  
  # 2️⃣ Calculadora de partidas Rankeadas
 **O Que deve ser utilizado**
